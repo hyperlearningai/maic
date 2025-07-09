@@ -19,10 +19,10 @@ MAIC (Mathematics • Artificial Intelligence • Coding) is our hands-on, proje
 
 ## <a name="modules"></a>2. Modules
 
-1. [Introduction to Python](Introduction to Python)
-2. [Introduction to Web Development](Introduction to Web Development)
-3. [Introduction to Japanese](Introduction to Japanese)
-4. [Introduction to Virtual Reality](Introduction to Virtual Reality)
+1. [Introduction to Python](Introduction%20to%20Python/)
+2. [Introduction to Web Development](Introduction%20to%20Web%20Development/)
+3. [Introduction to Japanese](Introduction%20to%20Japanese/)
+4. [Introduction to Virtual Reality](Introduction%20to%20Virtual%20Reality/)
 
 <p align="right"><a href="#readme-top">Back to Top &#9650;</a></p>
 
