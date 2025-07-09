@@ -13,7 +13,7 @@
 
 ## <a name="introduction"></a>1. Introduction
 
-MAIC (Mathematics • Artificial Intelligence • Coding) is our hands-on, project-based and expert instructor-led after school club that aims to reinforce the teaching of mathematics and computing through the design and development of real-world, innovative and fun artificial intelligence (AI) related technology projects.
+MAIC (Mathematics • Artificial Intelligence • Coding) is our hands-on, project-based and expert instructor-led after school club that aims to reinforce the teaching of mathematics and computing through the design and development of real-world, innovative and fun artificial intelligence (AI) and other cutting-edge technology-related projects.
 
 <p align="right"><a href="#readme-top">Back to Top &#9650;</a></p>
 
