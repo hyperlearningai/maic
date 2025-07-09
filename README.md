@@ -21,10 +21,10 @@ MAIC (Mathematics • Artificial Intelligence • Coding) is our hands-on, proje
 
 | Module Name | Mathematics | Project |
 | ----------- | ----------- | ------- |
-| [Introduction to Python](Introduction%20to%20Python/) | Speed, Distance and Time | Robotics (Smart CuteBot for Micro:bit) |
-| [Introduction to Web Development](Introduction%20to%20Web%20Development/) | 3D Coordinate System | Augmented Reality (Pokémon Go-style game) |
-| [Introduction to Japanese](Introduction%20to%20Japanese/) | Colour Models and Averages | AI-assisted reading and writing |
-| [Introduction to Virtual Reality](Introduction%20to%20Virtual%20Reality/) | 3D Coordinate System | Virtual Reality (Meta Quest 3) |
+| [Introduction to Python](Introduction%20to%20Python/) | Motion - Speed, Distance and Time | Robotics ([Smart CuteBot](https://www.elecfreaks.com/learn-en/microbitKit/smart_cutebot/index.html) for [Micro:bit](https://microbit.org/)) |
+| [Introduction to Web Development](Introduction%20to%20Web%20Development/) | 3D Coordinate System | Augmented Reality (Pokémon Go-style AR game) |
+| [Introduction to Japanese](Introduction%20to%20Japanese/) | Colour Models and Averages | AI-assisted reading and writing of [Hiragana](https://www3.nhk.or.jp/nhkworld/lesson/en/letters/hiragana.html), [Katakana](https://www3.nhk.or.jp/nhkworld/lesson/en/letters/katakana.html) and [Kanji](https://www3.nhk.or.jp/nhkworld/lesson/en/letters/kanji.html) (logographic Chinese) |
+| [Introduction to Virtual Reality](Introduction%20to%20Virtual%20Reality/) | 3D Coordinate System | Virtual Reality ([Meta Quest 3](https://www.meta.com/gb/quest/quest-3/)) |
 
 <p align="right"><a href="#readme-top">Back to Top &#9650;</a></p>
 
