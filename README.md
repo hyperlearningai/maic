@@ -25,7 +25,7 @@ The MAIC curriculum and all its resources were designed and developed by <a href
 | ----------- | ----------- | ------- |
 | Coding & Robotics | Programmable Car | <ul><li>Python Coding</li><li>Robotic Programming</li><li>Speed, Distance and Time</li><li>Light Detection</li><li>Line Tracking</li><li>Object Detection</li></ul> |
 | Augmented Reality | Interactive Textbook | <ul><li>Coordinate Geometry</li><li>AR Frameworks</li><li>Pattern Markers</li><li>Media and Events</li><li>Image Tracking</li><li>GPS Location</li></ul> |
-| Japanese | Japanese Writing | <ul><li>Japanese for Beginners</li><li>Daily life</li><li>Speaking and Listening</li><li>Reading and Writing</li><li>AI-assisted Translation</li><li>AI-assisted writing</li></ul> |
+| Japanese | Japanese Writing | <ul><li>Japanese for Beginners</li><li>Daily Life</li><li>Speaking and Listening</li><li>Reading and Writing</li><li>AI-assisted Translation</li><li>AI-assisted Writing</li></ul> |
 | Virtual Reality | Virtual Universe | <ul><li>Coordinate Geometry</li><li>VR Frameworks</li><li>VR Basics</li><li>Simple Objects</li><li>Simple Interactions</li><li>Simple Audio and Haptics</li></ul> |
 
 <p align="right"><a href="#readme-top">Back to Top &#9650;</a></p>
