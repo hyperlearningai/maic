@@ -15,6 +15,8 @@
 
 MAIC (Mathematics, Artificial Intelligence and Coding) is a hands-on and instructor-led after school club, designed for children between 10 - 16 years old, that aims to reinforce the teaching of mathematics and computing through the development of real-world, innovative and fun technology-related projects. The applied subjects covered in MAIC include artificial intelligence (AI), augmented reality (AR), virtual reality (VR), robotics and AI-assisted foreign language learning.
 
+The MAIC curriculum and all its resources were designed and developed by <a href="https://hyperlearning.ai/team/jillurquddus/" target="_blank">Jillur Quddus</a>, a computational mathematician at <a href="https://hyperlearning.ai/" target="_blank">HyperLearning AI</a>. All MAIC resources are free, open source and have been made accessible via the <a href="https://maic.school" target="_blank">maic.school</a> website so that schools around the world can have the opportunity to start their own MAIC clubs!
+
 <p align="right"><a href="#readme-top">Back to Top &#9650;</a></p>
 
 ## <a name="curriculum"></a>2. Curriculum
