@@ -52,7 +52,7 @@ def on_forever():
             initial_distance_to_object = distance_to_object
 
         # Determine whether the distance to the object is 
-        # less than the specified threshold e.g. 10cm.
+        # less than the specified threshold e.g. 15cm.
         if distance_to_object <= closest_distance_to_object and distance_to_object > 1:
 
             # Stop the car.
