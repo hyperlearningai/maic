@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
 <h1>MAIC</h1>
-<p>MAIC is a hands-on and instructor-led after school club, designed for children between 10 - 16 years old, that aims to reinforce the teaching of mathematics and computing through the development of real-world, innovative and fun technology-related projects. The applied subjects covered in MAIC include artificial intelligence (AI), augmented reality (AR), virtual reality (VR), robotics and AI-assisted foreign language learning.</p>
+<p>MAIC is a hands-on and instructor-led after school club, designed for children between 10 - 16 years old, that aims to reinforce the teaching of mathematics and computing through the development of real-world, innovative and fun technology-related projects.</p>
 <p><a href="https://maic.school" target="_blank">Website</a></p>
 </div>
 
